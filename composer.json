@@ -1,0 +1,10 @@
+{
+    "name": "atlaslion/mvc",
+    "description": "mvc from scratch",
+    "autoload": {
+        "psr-4": {
+            "app\\": "./"
+        }
+    },
+    "require": {}
+}
